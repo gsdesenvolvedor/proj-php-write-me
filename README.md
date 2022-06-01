@@ -1,2 +1,4 @@
-# php-write-me
-PHP Library to Easily Generate Markdown Files
+# PHP Write Me <br>
+_______________________________  <br>
+## PHP Lib to Easily Generate .md Files <br><br>
+> Developed by: gsdesenvolvedor@gmail.com (@gsdesenvolvedor)

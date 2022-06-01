@@ -1,0 +1,7 @@
+{
+    "name": "gsdesenvolvedor/php-write-me",
+    "description": "PHP Lib to Easily Generate .md Files",
+    "require": {
+        "php": ">=8.0"
+    }
+}
