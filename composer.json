@@ -1,6 +1,12 @@
 {
     "name": "gsdesenvolvedor/php-write-me",
     "description": "PHP Lib to Easily Generate .md Files",
+    "authors": [
+        {
+            "name": "Gabriel Souza (@gsdesenvolvedor)",
+            "email": "gsdesenvolvedor@gmail.com"
+        }
+    ],
     "require": {
         "php": ">=8.0"
     }
