@@ -1,10 +1,15 @@
 {
     "name": "gsdesenvolvedor/php-write-me",
     "description": "PHP Lib to Easily Generate .md Files",
+    "type": "library",
+    "keywords": ["md", "markdown", "php"],
+    "homepage": "https://www.gabrielsouza.dev.br/php-write-me",
+    "license": "LGPL-2.1-or-later",
     "authors": [
         {
             "name": "Gabriel Souza (@gsdesenvolvedor)",
-            "email": "gsdesenvolvedor@gmail.com"
+            "email": "gsdesenvolvedor@gmail.com",
+            "homepage": "https://www.gabrielsouza.dev.br"
         }
     ],
     "require": {
